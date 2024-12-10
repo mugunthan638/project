@@ -6,6 +6,8 @@ public class GITTT {
 		
 		System.out.println("Start the git");
 		
+		System.out.println("End the git");
+		
 
 	}
 
